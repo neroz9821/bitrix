@@ -7,7 +7,7 @@ use Bitrix\Main\Errorable;
 use Bitrix\Main\ErrorCollection;
 use Bitrix\Main\Loader;
 
-class MKMatrixProfileDetailComponent extends CBitrixComponent implements Controllerable, Errorable {
+class nerozProfileDetailComponent extends CBitrixComponent implements Controllerable, Errorable {
 	/** @var ErrorCollection */
 	public $errorCollection;
 
